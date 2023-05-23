@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TelegramShopReact/static/css/main.7acaea2f.css",
+    "main.js": "/TelegramShopReact/static/js/main.07d3183d.js",
+    "index.html": "/TelegramShopReact/index.html",
+    "main.7acaea2f.css.map": "/TelegramShopReact/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/TelegramShopReact/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
