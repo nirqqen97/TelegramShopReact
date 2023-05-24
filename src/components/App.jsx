@@ -1,15 +1,23 @@
+import { useEffect } from 'react';
+import './App.css';
+const tg = window.Telegram.WebApp
+
 export const App = () => {
+
+  useEffect(() => {
+  tg.ready()
+  }, []);
+  
+  
+  const onClose = () => {
+    tg.close()
+  }
+
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
+    <div>
+      <button type='button' onClick={onClose}>
+        Close
+        </button>
       React homework template
     </div>
   );
