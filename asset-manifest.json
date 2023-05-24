@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TelegramShopReact/static/css/main.7acaea2f.css",
-    "main.js": "/TelegramShopReact/static/js/main.07d3183d.js",
+    "main.css": "/TelegramShopReact/static/css/main.b1e731f0.css",
+    "main.js": "/TelegramShopReact/static/js/main.07dd0701.js",
     "index.html": "/TelegramShopReact/index.html",
-    "main.7acaea2f.css.map": "/TelegramShopReact/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/TelegramShopReact/static/js/main.07d3183d.js.map"
+    "main.b1e731f0.css.map": "/TelegramShopReact/static/css/main.b1e731f0.css.map",
+    "main.07dd0701.js.map": "/TelegramShopReact/static/js/main.07dd0701.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.b1e731f0.css",
+    "static/js/main.07dd0701.js"
   ]
 }
